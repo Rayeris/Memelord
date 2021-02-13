@@ -8,7 +8,7 @@
 <button type="button" onclick="Nespausk()">Nespausk</button>
 <script>
 function Paspausk() {
-  document.write("<h1>Vaziuojam i Rietava? :)))</h1> ");
+  document.write("<h1>Vaziuojam i 1 Rietava? :)))</h1> ");
 }
 function Nespausk() {
   document.write("<h1>8===o</h1>");
